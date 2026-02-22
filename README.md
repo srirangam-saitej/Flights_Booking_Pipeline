@@ -1,4 +1,4 @@
-# **Flight Booking Data Pipeline using Airflow and Github Actions**
+# **Flight Booking Analytics Data Pipeline using Airflow and Github Actions**
 ***
 ## Project Overview
 Designed and implemented a serverless data engineering pipeline on Google Cloud Platform (GCP) to process and analyze flight booking data.
